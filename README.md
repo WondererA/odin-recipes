@@ -1,0 +1,1 @@
+This is a basic recipe website to practice the html I have learned so far. The website will consist of a main index page which will have links to a few recipes.
